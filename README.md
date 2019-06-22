@@ -73,9 +73,13 @@ The project can be downloaded from :
 
 The real-life game, players flip over cards to locate the pairs that match The goal is to recreate this effect in your project. There are a couple of interactions that we need to handle:
 ● Flipping cards on selection by player
+
 ● If the flipped cards matches,they remain visible
+
 ● If cards do not match they again remain invisible
+
 ● The game finishes when all the 8 pairs of the cards are successfully matched
+
 ● When the game finishes,a congratulating popup message will come on to the screen displaying star rating,time and moves
 
 * * *
@@ -83,9 +87,13 @@ The real-life game, players flip over cards to locate the pairs that match The g
 ## Benefits of memory game
 
 \-- Helps the developer to use html,css,js combinely for better functionality of game
+
 \-- Helps the player to boost the brain
+
 \-- Helps player in building better concentration levels
+
 \-- Trains visual memory
+
 \-- Improves ability to find similarities and dissimilarities in objects
 
 * * *
