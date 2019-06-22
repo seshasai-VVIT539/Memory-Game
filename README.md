@@ -2,7 +2,7 @@
 
 A simple Memory Game Project for Front-end development.The Memory Game Project is about mastering the JavaScript.
 
-## This is a browser based card matching game.This project also includes CSS in the display of the webpage.
+This is a browser based card matching game.This project also includes CSS in the display of the webpage.
 
 ## Table of Contents
 
