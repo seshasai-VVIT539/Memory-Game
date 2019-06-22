@@ -57,9 +57,14 @@ The project can be downloaded from :
 -   The deck has 8 pairs of matching cards
 -   At each selection:
        \->If it is the first selection out of the two,flip the card
+      
        \->If it is second one,checks whether it is a matching pair or not
+       
        \->If it is a matching pair,they  remain visible
+       
        \->If not,they remain hidden for future selections
+       
+       
        \->At the end of all successful matchings,player will be congratulated for successful completion of game
 
     * * *
