@@ -72,6 +72,7 @@ The project can be downloaded from :
 ## Game functionality
 
 The real-life game, players flip over cards to locate the pairs that match The goal is to recreate this effect in your project. There are a couple of interactions that we need to handle:
+
 ● Flipping cards on selection by player
 
 ● If the flipped cards matches,they remain visible
