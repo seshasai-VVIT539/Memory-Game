@@ -84,7 +84,7 @@ function timer() {
       sec = 0;
       min++;
     }
-    if (matches == 0) {
+    if (matches == 8) {
       mbox.style.display = "block";
       console.log(matches);
       /*stopping time at the end of game*/
